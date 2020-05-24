@@ -1,3 +1,3 @@
-GitHubCalendar(".calendar", "IonicaBizau", {
-    responsive: true
-});
+GitHubCalendar('.calendar', 'ks20', {
+  responsive: true,
+})
