@@ -7,14 +7,9 @@
  * Website: https://themes.3rdwavemedia.com/
 */
 body {
-  font-family: "Lato", arial, sans-serif;
-  /* color: #434343; */
-  /* color: #fff; */
+  font-family: 'Lato', arial, sans-serif;
   color: #1a1a1a;
-  /* background: rgb(170, 202, 212); */
   background: #1a1a1a;
-  /* background: #597c7d; */
-  /* background: #fff; */
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -26,17 +21,13 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   color: #1a1a1a;
 }
 
 a {
-  /* color: #1a1a1a; */
-  /* color: #32a868; */
-  /* color: #8b0000; */
   color: #00008b;
-  /* color: rgb(170, 202, 212); */
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -59,7 +50,7 @@ a.btn {
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
-  font-family: "Montserrat", arial, sans-serif;
+  font-family: 'Montserrat', arial, sans-serif;
   padding: 8px 16px;
   font-weight: bold;
 }
@@ -81,8 +72,6 @@ a.btn:focus {
 
 a.btn-cta-primary,
 .btn-cta-primary {
-  /* background: #54ba4e;
-  border: 1px solid #54ba4e; */
   background: #02ed83;
   border: 1px solid #02ed83;
   color: #1a1a1a;
@@ -100,7 +89,6 @@ a.btn-cta-primary:hover,
 a.btn-cta-secondary,
 .btn-cta-secondary {
   background: #8b0000;
-  /* background: #479fc8; */
   border: 1px solid #8b0000;
   color: #fff;
   font-weight: 600;
@@ -178,7 +166,7 @@ a.dotted-link:hover {
   /* color: #778492; */
   color: #fff;
   /* color: #1a1a1a; */
-  font-family: "Lato", arial, sans-serif;
+  font-family: 'Lato', arial, sans-serif;
   font-weight: 400;
   font-size: 24px;
   margin-top: 0;
@@ -222,25 +210,13 @@ a.dotted-link:hover {
 }
 
 .section .section-inner {
-  /* background: #fff; */
-  /* background: #1a1a1a; */
-  /* background: rgb(51,51,51); */
   background: rgb(170, 202, 212);
-  /* background: #4df0eb; */
-  /* background: #11d4f2; */
-  /* background: #a3fff1; */
-  /* background: #a3f1ff; */
-  /* background: #a3dfff; */
   padding: 30px;
 }
 
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
-  /* color: #545e69; */
-  /* color: #fff; */
-  /* color: #1a1a1a; */
-  /* color: #8b0000; */
   color: #00008b;
   font-size: 24px;
 }
@@ -266,13 +242,7 @@ a.dotted-link:hover {
 .latest .item .technologies {
   font-size: 14px;
   margin-top: 0;
-  /* color: #f5425d */
-  /* color: #f2f542 */
-  /* color: #e6f542 */
-  /* color: #00008B */
-  /* color: #8B0000; */
   color: #800000;
-  /* color: #DC143C; */
 }
 
 .latest .item .title .label {
@@ -281,14 +251,10 @@ a.dotted-link:hover {
 }
 
 .latest .item .title a {
-  /* color: #778492; */
-  /* color: #fff */
   color: #1a1a1a;
 }
 
 .latest .item .title a:hover {
-  /* color: #5f6b77; */
-  /* color: #fff; */
   color: #1a1a1a;
 }
 
@@ -314,7 +280,6 @@ a.dotted-link:hover {
 
 .latest .featured .summary {
   margin-bottom: 30px;
-  /* color: #778492; */
   color: #1a1a1a;
 }
 
@@ -346,7 +311,7 @@ a.dotted-link:hover {
 }
 
 .latest .has-ribbon .ribbon .text {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   position: relative;
   left: -8px;
   top: 18px;
@@ -366,7 +331,7 @@ a.dotted-link:hover {
 
 .latest .has-ribbon .ribbon .text:before,
 .latest .has-ribbon .ribbon .text:after {
-  content: "";
+  content: '';
   position: absolute;
   bottom: -5px;
   border-top: 5px solid #276582;
@@ -395,8 +360,6 @@ a.dotted-link:hover {
 }
 
 .projects .item .title a {
-  /* color: #778492; */
-  /* color: #fff; */
   color: #1a1a1a;
 }
 
@@ -417,13 +380,11 @@ a.dotted-link:hover {
 }
 
 .experience .item .title .place {
-  /* color: #999; */
   color: #8b0000;
   /* font-weight: normal; */
 }
 
 .experience .item .title .place a {
-  /* color: #999; */
   color: #8b0000;
 }
 
@@ -507,7 +468,7 @@ a.dotted-link:hover {
   color: #1a1a1a;
   font-size: 14px;
   font-weight: 400;
-  font-family: "Lato", arial, sans-serif;
+  font-family: 'Lato', arial, sans-serif;
   position: absolute;
   right: 0;
   top: 0;
@@ -586,7 +547,7 @@ a.dotted-link:hover {
 }
 
 .education .item .university {
-  font-family: "Lato", arial, sans-serif;
+  font-family: 'Lato', arial, sans-serif;
   font-size: 13px;
   /* color: #999; */
   color: #1a1a1a;
